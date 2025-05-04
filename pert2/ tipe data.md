@@ -23,4 +23,4 @@ tree = Gabungan data + pointer, untuk Struktur data hierarki.
 
 graph = simpul dan sisi, Hubungan kompleks antar data.
 
-kenapa bisa penting karena itu semua bakalan membantu loe menyelesaikan masalah dengan lebih cepat dan tepat. Dan memilih tipe data yang tepat membantu efisiensi (waktu dan memori),dan bisa memahami struktur data.
+kenapa bisa penting karena itu semua bakalan membantu loe menyelesaikan masalah dengan lebih cepat dan tepat. Dan memilih tipe data yang tepat membantu efisiensi (waktu dan memori),dan bisa memahami struktur data.                               
