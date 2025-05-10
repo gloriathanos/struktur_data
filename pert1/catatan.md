@@ -1,5 +1,5 @@
 STRUKTUR DATA
-Merupakan cara untuk mengatur,menyimpan, dan mengorganisisr data dalam komputer agar dapat diakses, diolah, dan dimanipulasi secara efisien
+Merupakan cara untuk mengatur,menyimpan, dan mengorganisir data dalam komputer agar dapat diakses, diolah, dan dimanipulasi secara efisien
 
 struktur data
 Terdiri dari:

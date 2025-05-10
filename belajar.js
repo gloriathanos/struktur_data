@@ -1,3 +1,2 @@
-for(let i = 0; i < 5; i++){
-    console.log("Hello World");
-}
+let nama = "hello world";
+console.lo(nama.toUpperCase)
